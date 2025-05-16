@@ -1,7 +1,5 @@
 streamlit
 pandas
-numpy
-matplotlib
 plotly
 newsapi-python
 transformers
